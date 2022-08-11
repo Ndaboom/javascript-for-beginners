@@ -45,8 +45,6 @@ async function calculateResults(){
 
 //Javascript this keyword
 
-/* "this" keyword refers to an object which is executing the current piece of code */
-
 /* Example 1 */
 
 var value = 50
